@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max Axis",
+    "price": 4249,
+    "description": "A stylish pair of Nike Air Max shoes.",
+    "category": "Shoes",
+    "image": ["./images/shoes/nike air 1.jpeg",
+      "./images/shoes/nike air 2.jpeg",
+      "./images/shoes/nike air 3.jpeg",
+      "./images/shoes/nike air 4.jpeg",
+      "./images/shoes/nike air 5.jpeg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost",
+    "price": 14249,
+    "description": "High-performance Adidas Ultraboost shoes.",
+    "category": "Shoes",
+    "image": ["./images/shoes/adidas ultraboost 1.jpeg",
+      "./images/shoes/adidas ultraboost 2.jpeg",
+      "./images/shoes/adidas ultraboost 3.jpeg",
+      "./images/shoes/adidas ultraboost 4.jpeg",
+      "./images/shoes/adidas ultraboost 5.jpeg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Puma RS-X",
+    "price": 6499,
+    "description": "Trendy Puma RS-X sneakers.",
+    "category": "Shoes",
+    "image": ["./images/shoes/puma rs-x 1.jpeg",
+      "./images/shoes/puma rs-x 2.jpeg",
+      "./images/shoespuma rs-x 3jpeg",
+      "./images/shoes/puma rs-x 4.jpeg",
+      "./images/shoes/puma rs-x 5.jpeg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "New Balance 574",
+    "price": 5060,
+    "description": "Comfortable New Balance 574 shoes.",
+    "category": "Shoes",
+    "image": ["./images/shoes/new balance 1.jpeg",
+      "./images/shoes/new balance 2.jpeg",
+      "./images/shoes/new balance 3.jpeg",
+      "./images/shoes/new balance 4.jpeg",
+      "./images/shoes/new balance 5.jpeg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Reebok Classic",
+    "price": 4559,
+    "description": "Timeless Reebok Classic shoes.",
+    "category": "Shoes",
+    "image": ["./images/shoes/reebok classic 1.jpeg",
+      "./images/shoes/reebok classic 2.jpeg",
+      "./images/shoes/reebok classic 3.jpeg",
+      "./images/shoes/reebok classic 4.jpeg",
+      "./images/shoes/reebok classic 5.jpeg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Vans Old Skool",
+    "price": 1850,
+    "description": "Iconic Vans Old Skool sneakers.",
+    "category": "Shoes",
+    "image": ["./images/shoes/vans old skool 1.jpeg",
+      "./images/shoes/vans old skool 2.jpeg",
+      "./images/shoes/vans old skool 3.jpeg",
+      "./images/shoes/vans old skool 4.jpeg"
+    ]
+  }
+  ,
+  {
+    "id": 11,
+    "name": "Sonata - Volt Analog Watch",
+    "price": 419,
+    "description": "Elegant and affordable Sonata watch.",
+    "category": "Watches",
+    "image": ["./images/watches/sonata volt 1.jpeg",
+      "./images/watches/sonata volt 2.jpeg",
+      "./images/watches/sonata volt 3.jpeg",
+      "./images/watches/sonata volt 4.jpeg",
+      "./images/watches/sonata volt 5.jpeg"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Fastrack - Fast Fit Analog Watch",
+    "price": 3562,
+    "description": "Trendy and stylish Fastrack watch.",
+    "category": "Watches",
+    "image": ["./images/watches/fastrack fast fit 1.jpeg",
+      "./images/watches/fastrack fast fit 2.jpeg",
+      "./images/watches/fastrack fast fit 3.jpeg",
+      "./images/watches/fastrack fast fit 4.jpeg",
+      "./images/watches/fastrack fast fit 5.jpeg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Fossil - RHETT Analog Watch",
+    "price": 5497,
+    "description": "Classic and high-quality Fossil watch.",
+    "category": "Watches",
+    "image": ["./images/watches/fossil rhett 1.jpeg",
+      "./images/watches/fossil rhett 2.jpeg",
+      "./images/watches/fossil rhett 3.jpeg",
+      "./images/watches/fossil rhett 4.jpeg",
+      "./images/watches/fossil rhett 5.jpeg"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Casio - Enticer Analog Watch",
+    "price": 2500,
+    "description": "Reliable and feature-packed Casio watch.",
+    "category": "Watches",
+    "image": ["./images/watches/casio enticer 1.jpeg",
+      "./images/watches/casio enticer 2.jpeg",
+      "./images/watches/casio enticer 3.jpeg",
+      "./images/watches/casio enticer 4.jpeg",
+      "./images/watches/casio enticer 5.jpeg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Timex - Analog Watch",
+    "price": 1171,
+    "description": "Durable and water-resistant Timex watch.",
+    "category": "Watches",
+    "image": ["./images/watches/timex analog 1.jpeg",
+      "./images/watches/timex analog 2.jpeg",
+      "./images/watches/timex analog 3.jpeg",
+      "./images/watches/timex analog 4.jpeg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Rolex - Vintage Rolex Sports Models",
+    "price": 6376,
+    "description": "Luxurious and prestigious Rolex watch.",
+    "category": "Watches",
+    "image": ["./images/watches/rolex vintage 1.jpeg",
+      "./images/watches/rolex vintage 2.jpeg"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Apple iPhone 14",
+    "price": 67999,
+    "description": "128 GB ROM | 15.49 cm (6.1 inch) Super Retina XDR Display, 12MP + 12MP | 12MP Front Camera | A15 Bionic Chip",
+    "category": "Mobiles",
+    "image": ["./images/mobiles/iphone14 1.jpg",
+      "./images/mobiles/iphone14 2.jpg",
+      "./images/mobiles/iphone14 3.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Samsung S22",
+    "price": 89000,
+    "description": "12 GB RAM | 256 GB ROM 17.27 cm (6.8 inch) Quad HD+ Display 108MP + 12MP + 10MP + 10MP | 40MP Front Camera",
+    "category": "Mobiles",
+    "image": ["./images/mobiles/samsung s22 1.jpeg",
+      "./images/mobiles/samsung s22 2.jpeg",
+      "./images/mobiles/samsung s22 3.jpeg"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "OnePlus 9 Pro 5G",
+    "price": 49000,
+    "description": "12 GB RAM | 256 GB ROM | 17.02 cm (6.7 inch) Display | 48MP Rear Camera",
+    "category": "Mobiles",
+    "image": ["./images/mobiles/oneplus 9 1.jpeg",
+      "./images/mobiles/oneplus 9 2.jpeg",
+      "./images/mobiles/oneplus 9 3.jpeg"
+    ]
+  }
+]
