@@ -1,4 +1,4 @@
-# Deployed link: [https://simpleecommerceplatform.netlify.app](https://ecommerce-platform.netlify.app/)
+# Deployed link: https://ecommerce-platform.netlify.app/
 
 # Getting Started with Create React App
 
